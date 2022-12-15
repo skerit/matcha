@@ -1,4 +1,27 @@
 
+0.7.0 / 2016-03-07
+==================
+
+  * Merge pull request #23 from addaleax/json-reporter
+  * Merge pull request #21 from stevemao/patch-1
+  * Add JSON reporter
+  * update mocha link
+
+0.6.1 / 2015-12-22
+==================
+
+  * Merge pull request #18 from landau/patch-1
+  * Use ops as ending value
+  * add ops to csv output
+
+0.6.0 / 2014-11-10 
+==================
+
+ * Merge pull request #17 from juliangruber/handle-errors
+ * throw on error
+ * Merge pull request #16 from rkusa/master
+ * add `concurrency` options
+
 0.5.0 / 2014-04-04 
 ==================
 
